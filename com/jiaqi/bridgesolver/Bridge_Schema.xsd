@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="jiaq/schema"
+           elementFormDefault="qualified">
+               
+    <xs:simpleType name="NameType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-z][a-zA-Z0-9]*"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="DeckType">
+        <xs:sequence>
+            <xs:element name="Name" type="NameType"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:element name="specification">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="grideStep" type="xs:decimal"/>
+                <xs:element name="TensionResistanceFactor" type="xs:decimal"/>
+                <xs:element name="CompressionResistanceFactor" type="xs:decimal"/>
+                <xs:element name="DeadLoadFactor" type="xs:decimal"/>
+                <xs:element name="LiveLoadFactor" type="xs:decimal"/>
+                <xs:element maxOccurs="unbounded" name="Deck" type="DeckType"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+</xs:schema>

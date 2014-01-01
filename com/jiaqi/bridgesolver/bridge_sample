@@ -1,0 +1,52 @@
+Bridge Solver v0.1 Type
+name E Fy density area moment cost_vol
+
+Bridge Solver v0.1 Prebridge
+name condition
+jointSize memberSize cost
+j11 j12
+j21 j22
+j31 j32
+...
+
+Bridge Solver v0.1 Condition
+name jointSize deckSize boundarySize slenderness
+i1 i2 i3 ... (fixedIndex)
+by1 by2 ...
+bxmin1 bxmin2 ...
+bxmax1 bxmax2 ...
+j1x j1y
+j2x j2y
+j3x j3y
+...
+
+Bridge Solver v0.1 Bridge
+name prebridge deckType loadType bundleTypeSize
+type1 j1 j2 ...
+type2 j1 j2 ...
+...
+x1 y1
+x2 y2
+x3 y3
+...
+
+Bridge Solver v0.1 Optimizer
+name prebridge transformSize seedSize gamma maxBundle deckType loadType
+transformWeight swapWeight
+loadIndex1 loadIndex2 ...
+typeName1 typeName2 ...
+weight dx1 dy1 dx2 dy2 ...
+weight dx1 dy1 dx2 dy2 ...
+...
+
+note:
+stop when small cost and small length
+unit cost   length
+500         5
+200         8
+
+
+Inventory:
+
+specification
+

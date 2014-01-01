@@ -1,0 +1,241 @@
+loading from file:
+Seccess!BC30 has been added.
+Seccess!BH30 has been added.
+Seccess!BQ30 has been added.
+Seccess!BC35 has been added.
+Seccess!BH35 has been added.
+Seccess!BQ35 has been added.
+Seccess!BC40 has been added.
+Seccess!BH40 has been added.
+Seccess!BQ40 has been added.
+Seccess!BC45 has been added.
+Seccess!BH45 has been added.
+Seccess!BQ45 has been added.
+Seccess!BC50 has been added.
+Seccess!BH50 has been added.
+Seccess!BQ50 has been added.
+Seccess!BC55 has been added.
+Seccess!BH55 has been added.
+Seccess!BQ55 has been added.
+Seccess!BC60 has been added.
+Seccess!BH60 has been added.
+Seccess!BQ60 has been added.
+Seccess!BC65 has been added.
+Seccess!BH65 has been added.
+Seccess!BQ65 has been added.
+Seccess!BC70 has been added.
+Seccess!BH70 has been added.
+Seccess!BQ70 has been added.
+Seccess!BC75 has been added.
+Seccess!BH75 has been added.
+Seccess!BQ75 has been added.
+Seccess!BC80 has been added.
+Seccess!BH80 has been added.
+Seccess!BQ80 has been added.
+Seccess!BC90 has been added.
+Seccess!BH90 has been added.
+Seccess!BQ90 has been added.
+Seccess!BC100 has been added.
+Seccess!BH100 has been added.
+Seccess!BQ100 has been added.
+Seccess!BC110 has been added.
+Seccess!BH110 has been added.
+Seccess!BQ110 has been added.
+Seccess!BC120 has been added.
+Seccess!BH120 has been added.
+Seccess!BQ120 has been added.
+Seccess!BC130 has been added.
+Seccess!BH130 has been added.
+Seccess!BQ130 has been added.
+Seccess!BC140 has been added.
+Seccess!BH140 has been added.
+Seccess!BQ140 has been added.
+Seccess!BC150 has been added.
+Seccess!BH150 has been added.
+Seccess!BQ150 has been added.
+Seccess!BC160 has been added.
+Seccess!BH160 has been added.
+Seccess!BQ160 has been added.
+Seccess!BC170 has been added.
+Seccess!BH170 has been added.
+Seccess!BQ170 has been added.
+Seccess!BC180 has been added.
+Seccess!BH180 has been added.
+Seccess!BQ180 has been added.
+Seccess!BC190 has been added.
+Seccess!BH190 has been added.
+Seccess!BQ190 has been added.
+Seccess!BC200 has been added.
+Seccess!BH200 has been added.
+Seccess!BQ200 has been added.
+Seccess!BC220 has been added.
+Seccess!BH220 has been added.
+Seccess!BQ220 has been added.
+Seccess!BC240 has been added.
+Seccess!BH240 has been added.
+Seccess!BQ240 has been added.
+Seccess!BC260 has been added.
+Seccess!BH260 has been added.
+Seccess!BQ260 has been added.
+Seccess!BC280 has been added.
+Seccess!BH280 has been added.
+Seccess!BQ280 has been added.
+Seccess!BC300 has been added.
+Seccess!BH300 has been added.
+Seccess!BQ300 has been added.
+Seccess!BC320 has been added.
+Seccess!BH320 has been added.
+Seccess!BQ320 has been added.
+Seccess!BC340 has been added.
+Seccess!BH340 has been added.
+Seccess!BQ340 has been added.
+Seccess!BC360 has been added.
+Seccess!BH360 has been added.
+Seccess!BQ360 has been added.
+Seccess!BC400 has been added.
+Seccess!BH400 has been added.
+Seccess!BQ400 has been added.
+Seccess!BC500 has been added.
+Seccess!BH500 has been added.
+Seccess!BQ500 has been added.
+Seccess!TC30 has been added.
+Seccess!TH30 has been added.
+Seccess!TQ30 has been added.
+Seccess!TC35 has been added.
+Seccess!TH35 has been added.
+Seccess!TQ35 has been added.
+Seccess!TC40 has been added.
+Seccess!TH40 has been added.
+Seccess!TQ40 has been added.
+Seccess!TC45 has been added.
+Seccess!TH45 has been added.
+Seccess!TQ45 has been added.
+Seccess!TC50 has been added.
+Seccess!TH50 has been added.
+Seccess!TQ50 has been added.
+Seccess!TC55 has been added.
+Seccess!TH55 has been added.
+Seccess!TQ55 has been added.
+Seccess!TC60 has been added.
+Seccess!TH60 has been added.
+Seccess!TQ60 has been added.
+Seccess!TC65 has been added.
+Seccess!TH65 has been added.
+Seccess!TQ65 has been added.
+Seccess!TC70 has been added.
+Seccess!TH70 has been added.
+Seccess!TQ70 has been added.
+Seccess!TC75 has been added.
+Seccess!TH75 has been added.
+Seccess!TQ75 has been added.
+Seccess!TC80 has been added.
+Seccess!TH80 has been added.
+Seccess!TQ80 has been added.
+Seccess!TC90 has been added.
+Seccess!TH90 has been added.
+Seccess!TQ90 has been added.
+Seccess!TC100 has been added.
+Seccess!TH100 has been added.
+Seccess!TQ100 has been added.
+Seccess!TC110 has been added.
+Seccess!TH110 has been added.
+Seccess!TQ110 has been added.
+Seccess!TC120 has been added.
+Seccess!TH120 has been added.
+Seccess!TQ120 has been added.
+Seccess!TC130 has been added.
+Seccess!TH130 has been added.
+Seccess!TQ130 has been added.
+Seccess!TC140 has been added.
+Seccess!TH140 has been added.
+Seccess!TQ140 has been added.
+Seccess!TC150 has been added.
+Seccess!TH150 has been added.
+Seccess!TQ150 has been added.
+Seccess!TC160 has been added.
+Seccess!TH160 has been added.
+Seccess!TQ160 has been added.
+Seccess!TC170 has been added.
+Seccess!TH170 has been added.
+Seccess!TQ170 has been added.
+Seccess!TC180 has been added.
+Seccess!TH180 has been added.
+Seccess!TQ180 has been added.
+Seccess!TC190 has been added.
+Seccess!TH190 has been added.
+Seccess!TQ190 has been added.
+Seccess!TC200 has been added.
+Seccess!TH200 has been added.
+Seccess!TQ200 has been added.
+Seccess!TC220 has been added.
+Seccess!TH220 has been added.
+Seccess!TQ220 has been added.
+Seccess!TC240 has been added.
+Seccess!TH240 has been added.
+Seccess!TQ240 has been added.
+Seccess!TC260 has been added.
+Seccess!TH260 has been added.
+Seccess!TQ260 has been added.
+Seccess!TC280 has been added.
+Seccess!TH280 has been added.
+Seccess!TQ280 has been added.
+Seccess!TC300 has been added.
+Seccess!TH300 has been added.
+Seccess!TQ300 has been added.
+Seccess!TC320 has been added.
+Seccess!TH320 has been added.
+Seccess!TQ320 has been added.
+Seccess!TC340 has been added.
+Seccess!TH340 has been added.
+Seccess!TQ340 has been added.
+Seccess!TC360 has been added.
+Seccess!TH360 has been added.
+Seccess!TQ360 has been added.
+Seccess!TC400 has been added.
+Seccess!TH400 has been added.
+Seccess!TQ400 has been added.
+Seccess!TC500 has been added.
+Seccess!TH500 has been added.
+Seccess!TQ500 has been added.
+Seccess!test_condition has been added.
+Seccess!test_prebridge has been added.
+Seccess!test_bridge has been added.
+Seccess!test_optimizer has been added.
+Seccess!test_optimizer_179716 has been added.
+Seccess!test_condition2 has been added.
+Seccess!test_prebridge2 has been added.
+Seccess!test_bridge2 has been added.
+Seccess!test_optimizer2 has been added.
+Loaded 207 items in total.
+
+0:(0,1):	-568.8470991420802	0.0
+1:(1,2):	-1502.9539763845203	0.0
+2:(2,3):	-2137.8169460094814	0.0
+3:(3,4):	-2472.8509462609545	0.0
+4:(4,5):	-2472.8509462609554	0.0
+5:(5,6):	-2137.816946009467	0.0
+6:(6,7):	-1502.9539763845044	0.0
+7:(7,8):	-568.8470991420538	0.0
+8:(9,10):	0.0	1135.381020706562
+9:(10,11):	0.0	1937.4684595792576
+10:(11,12):	0.0	2405.106959956488
+11:(12,13):	0.0	2537.7114600822356
+12:(13,14):	0.0	2405.1069599564894
+13:(14,15):	0.0	1937.4684595792671
+14:(15,16):	0.0	1135.3810207065649
+15:(0,9):	0.0	1271.9807824851969
+16:(9,1):	-1266.8083601777635	0.0
+17:(1,10):	0.0	978.0515621152967
+18:(10,2):	-971.6039216316885	0.0
+19:(2,11):	0.0	682.1930046405009
+20:(11,3):	-675.7453641568766	0.0
+21:(3,12):	-82.72001134980133	385.6803282369631
+22:(12,4):	-379.2326877533369	89.16765183343688
+23:(4,13):	-379.23268775334543	89.1676518334217
+24:(13,5):	-82.72001134979666	385.6803282369747
+25:(5,14):	-675.7453641568809	0.0
+26:(14,6):	0.0	682.1930046404982
+27:(6,15):	-971.603921631689	0.0
+28:(15,7):	0.0	978.0515621153072
+29:(7,16):	-1266.8083601777694	0.0
+30:(16,8):	0.0	1271.980782485206
